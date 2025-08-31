@@ -17,13 +17,8 @@
 </p>
 
 ## 📊 GitHub Activity
-
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="160" />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trrail&theme=github_dark" />
 </p>
 
 ## ⚡ My Tech Stack  
